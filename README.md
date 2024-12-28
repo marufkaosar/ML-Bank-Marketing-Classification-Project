@@ -1,0 +1,1 @@
+This project focuses on predicting whether a customer will subscribe to a bank term deposit based on data from direct marketing campaigns conducted via phone calls. The dataset contains 21 features, including the target variable (y), which indicates the subscription outcome (yes/no).
